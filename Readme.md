@@ -24,16 +24,31 @@ Yknight is a front-end gaming ecommerce website designed to display and provide 
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](https://drive.google.com/file/d/1d4C5cgdBTAWOTTBaRZwd91GLHlGiE8Na/view?usp=drive_link)
+### 🏠 Home Page  
+🔗 https://drive.google.com/file/d/1d4C5cgdBTAWOTTBaRZwd91GLHlGiE8Na/view?usp=drive_link
 
-### 🎮 Games Listing Page
-![Games Page](https://drive.google.com/file/d/1nasW9aPtQqb4bs1DtP1lkZ0KTrd664No/view?usp=drive_link)
+### 🎮 Games Listing Page  
+🔗 https://drive.google.com/file/d/1nasW9aPtQqb4bs1DtP1lkZ0KTrd664No/view?usp=drive_link
 
+---
 
+## ▶️ Website Walkthrough Video
 
-▶️ **Website Walkthrough Video**  
-[https://drive.google.com/drive/my-drive).
+🎥 **Watch here:**  
+https://drive.google.com/file/d/1-mNpk9qefrEp5N_mXeZuyoS9wgV_cPAO/view?usp=drive_link
 
+---
 
+## 📌 Future Improvements
+
+- User authentication  
+- Dynamic game data integration  
+- Payment gateway (for paid games)  
+- Performance optimizations  
+
+---
+
+## 🙌 Acknowledgements
+
+Inspired by modern gaming ecommerce platforms and clean UI principles.
 
