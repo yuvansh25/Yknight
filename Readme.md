@@ -33,7 +33,7 @@ Yknight is a front-end gaming ecommerce website designed to display and provide 
 
 
 ▶️ **Website Walkthrough Video**  
-[https://drive.google.com/file/d/1bAHkhyI0i9aMf4_9jHUtl-eIwaa32u0e/view?usp=drive_link)
+[https://drive.google.com/drive/my-drive).
 
 
 
